@@ -33,7 +33,7 @@ The seagrass card explicitly includes a conventional selected design in physical
 
 The cards' replicate counts are planning allocations, not statistical power calculations. Use pilot variance, practical effect size and attainable time to set final replication. Report individual-unit results and uncertainty even when a significance test is inconclusive.
 
-## Ranking and remaining uncertainty
+## Ranking of the original three and remaining uncertainty
 
 **First overall: cool-water refuges.** The physical thermal endpoint is accessible, indoor testing is possible in winter and no biology is needed to establish the bounded hydraulic/thermal result. Risks are coarse temperature mapping, sensor lag, thermal resets and a conventional passive design that makes adaptive control unnecessary.
 
@@ -42,3 +42,16 @@ The cards' replicate counts are planning allocations, not statistical power calc
 **Alternative: lost-line disentanglement.** Actual material can be recovered and weighed, but limited robot motions may not free representative tangles. Most real operations involve cutting, biofouling and professional divers. Whether the restricted subtask is useful to practitioners remains unverified.
 
 None is automatically an ISEF-caliber project. A defensible competition result would require a meaningful, reproducible physical improvement over strong baselines, student ownership, careful prior-art analysis and appropriately bounded environmental claims.
+
+
+## October 23 additions: validation gates
+
+| New direction | Credible endpoint | Main comparison and limitation |
+|---|---|---|
+| Oil recovery | Delivered oil volume, recovered-fluid oil fraction, time and electrical energy in a defined immiscible-fluid test | Passive floating/PID/lookup control must be tuned. Unresolved emulsions remain reported failures; mixed-fluid mass or visible clearing is not oil removal. No claim for crude, dissolved/dispersed hydrocarbons or ecosystem recovery. |
+| Native-seed treatment | Normal living seedlings per original seed, six weeks after sowing; all damaged/rejected seeds remain in denominator | Manual sanding, best fixed dose and a tuned simple threshold controller. Early day 14–21 emergence/injury labels train the initial model; six-week survival is a separate locked outcome. Seed lots and trays/sessions must be accounted for. No field restoration claim. |
+| Reef rubble, reserve | Rubble movement/subsidence and stable open plan-view surface fraction at equal material | Conventional bag, unbagged mound, flat rubble and strongest conventional optimizer. Support removal includes sham handling; no inference of biodegradation, true 3-D settlement area, recruitment or coral survival. |
+
+The seed schedule works only if approved pilot/development treatments occur in weeks 1–2, early labels permit freezing by week 4, and confirmation starts by the end of week 4. A long pilot followed by a new development cohort and then six-week confirmation does not fit the ten-week planning window. Cold stratification, poor seed viability or slow emergence are no-go conditions for this schedule.
+
+The two marine additions have substantial older and recent prior art. A new species, a printer-made component or the word AI does not establish novelty. The source-linked cards identify narrow possible contributions and circumstances that should end the project. Reef rubble is deliberately a reserve rather than being advertised as equally strong.

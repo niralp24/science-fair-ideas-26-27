@@ -2,7 +2,7 @@
 
 Rules checked October 22, 2026; dates rechecked and publication prepared October 23, 2026.
 
-Family research notes, not an approval determination or a student application. The family confirmed it can still apply for SRC review before the applicable November deadline. [Current three-idea comparison](../README.md).
+Family research notes, not an approval determination or a student application. The family confirmed it can still apply for SRC review before the applicable November deadline. [Current project comparison](../README.md).
 
 
 ### Dates that actually control the schedule
